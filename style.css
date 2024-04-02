@@ -5,7 +5,7 @@
 body {
   padding-left: 140px;
   padding-right: 140px;
-  background-image: url(/DesignWEbsite/54-549491_background-for-food-website.jpg);
+  background-image: url(/54-549491_background-for-food-website.jpg);
   background-size: cover;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -111,28 +111,28 @@ p {
   height: 200px;
   width: 100%;
   background-size: cover;
-  background-image: url(/DesignWEbsite/079979700_1587487794-Sajiku_1.jpg);
+  background-image: url(/079979700_1587487794-Sajiku_1.jpg);
 }
 .product1 {
   border-radius: 8px;
   height: 200px;
   width: 100%;
   background-size: cover;
-  background-image: url(/DesignWEbsite/60f8b994e052d.jpg);
+  background-image: url(/60f8b994e052d.jpg);
 }
 .product2 {
   border-radius: 8px;
   height: 200px;
   width: 100%;
   background-size: cover;
-  background-image: url(/DesignWEbsite/066100900_1644554867-shutterstock_1984582070.jpg);
+  background-image: url(/066100900_1644554867-shutterstock_1984582070.jpg);
 }
 .product3 {
   border-radius: 8px;
   height: 200px;
   width: 100%;
   background-size: cover;
-  background-image: url(/DesignWEbsite/resep-bakso-goreng.jpg);
+  background-image: url(/resep-bakso-goreng.jpg);
 }
 
 .product h3 {
@@ -156,7 +156,7 @@ p {
 
 .table {
   width: 100%;
-  background-image: url(/DesignWEbsite/079979700_1587487794-Sajiku_1.jpg);
+  background-image: url(/079979700_1587487794-Sajiku_1.jpg);
   border: solid white;
 
   padding: 50px;
@@ -178,5 +178,5 @@ footer {
 .kontak {
   height: 350px;
   color: #ddd;
-  background-image: url(/DesignWEbsite/istockphoto-1334844140-612x612.jpg);
+  background-image: url(/istockphoto-1334844140-612x612.jpg);
 }
